@@ -19,22 +19,22 @@ AtliQ Hardware, a consumer electronics company, is focusing on enhancing its bus
 -Data Modeling: Create relationships between different data tables in Power BI.
 
 ### 2. Dashboard Design
--Finance View
+-**Finance View**
 -Metrics: Revenue, expenses, profit margins.
 -Visualizations: Line charts for trends, bar charts for comparisons, pie charts for expense distribution.
 
-## Sales View
+-**Sales View**
 -Metrics: Total sales, sales by region, top products, sales growth.
 -Visualizations: Column charts for sales by month, maps for regional sales, bar charts for top products.
 
-## Supply Chain View
+-**Supply Chain View**
 -Metrics: Inventory levels, supplier performance, lead times, order accuracy.
 -Visualizations: Line charts for inventory trends, bar charts for supplier performance, pie charts for order accuracy.
 
-## Marketing View
+-**Marketing View**
 -Visualizations: Bar charts for campaign performance, line charts for customer acquisition trends, KPI indicators for ROI.
 
-## 3. Dashboard Implementation
+### 3. Dashboard Implementation
 -Create Views: Develop individual views for finance, sales, supply chain, and marketing in Power BI.
 -Interactivity: Add slicers and filters to enable users to drill down into specific data points.
 -Styling: Apply consistent styling and formatting to ensure a professional and cohesive look.
